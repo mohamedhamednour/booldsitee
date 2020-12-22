@@ -1,0 +1,21 @@
+.nav-link{
+    margin-right: 20px;
+}
+.nav-link:hover{
+   border-bottom: 3px solid red;
+}
+.btnnav{
+    margin-right: 90px;
+}
+.card{
+    width: 350px;
+    margin: 40px;
+}
+
+.rcol{
+background-color:  rgb(43, 34, 97);
+height: 40px;
+}
+.card-title{
+    color:red
+}
