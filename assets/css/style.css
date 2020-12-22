@@ -21,3 +21,6 @@ height: 40px;
 .card-title{
     color:red
 }
+.card-title:hover{
+    text-decoration: none;
+}
