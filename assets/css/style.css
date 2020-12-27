@@ -82,7 +82,7 @@ height: 40px;
 }
 .de{
     background-color: white;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .vicon{
     background-color: white;
@@ -96,4 +96,10 @@ font-size: 50px;
 background-color: white;
 border-radius: 160px;
 
+}
+.gop{
+    background-color: white;
+    height: 100px;
+    margin-top: 30px;
+    border-radius: 0px 60px 60px 0px;
 }
