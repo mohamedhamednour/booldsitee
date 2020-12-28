@@ -65,11 +65,13 @@ height: 40px;
     margin-left: 270px;
 }
 .photoend{
-    width: 230px;
-   margin-bottom: 30px;
-    float: left;
+    width: 300px;
+    
    
-   margin-top: 60px;
+    display: block;
+    
+    margin-right: auto;
+   
 }
 .mar{
     padding: 10px;
@@ -119,4 +121,19 @@ border-radius: 160px;
   }
   .con{
       background-color: white;
+  }
+  .carousel-caption{
+
+margin-bottom:120px;
+position: absolute;
+
+
+  }
+  .pp{
+    display: block;
+    margin-left: auto;
+  }
+  .phor{
+      
+
   }
