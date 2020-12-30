@@ -101,7 +101,7 @@ border-radius: 160px;
 }
 .gop{
     background-color: white;
-    height: 100px;
+    height: 130px;
     margin-top: 30px;
     border-radius: 0px 60px 60px 0px;
 }
@@ -133,7 +133,56 @@ position: absolute;
     display: block;
     margin-left: auto;
   }
-  .phor{
-      
+  .god{
+float: left;     
 
+  }
+  .btnw{
+
+    background-color: rgb(126, 123, 123);
+    
+    border-color:rgb(126, 123, 123);
+  }
+  .EN{
+
+    border-right: 2px solid rgb(250, 245, 245);
+    color: rgb(233, 231, 231);
+    font-size: 22px;
+    margin-right: 2px;
+  }
+  .EN:hover{
+      text-decoration:none;
+      color:whitesmoke;
+  }
+  .arbi{
+    color: rgb(233, 33, 33);
+    font-size: 22px;
+  }
+  .arbi:hover{
+    text-decoration:none;
+    color:whitesmoke;
+  }
+  .emil{
+      color: white;
+  }
+  .phoo{
+    color: white;
+    
+  }
+  .icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .fab{
+      color: white;
+      margin-right: 20px;
+      font-size: 30px;
+  }
+  .em{
+      font-size: 20px;
+  }
+  .far{
+      color: white;
   }
