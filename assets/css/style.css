@@ -192,4 +192,17 @@ float: left;
   }
   .breadcrumb{
     border-radius: 0px 60px 60px 0px;
+    margin-top: 25px;
   }
+  .cop{
+      background-color: #394b5c;
+      padding: 1% 7%;
+  }
+  .coo{
+      background-color: rgb(160, 159, 157);
+      padding: 1% 7%;
+      border-color: rgb(160, 159, 157) ;
+  }
+.coo:hover{
+    background-color:  rgb(160, 159, 157);
+}
