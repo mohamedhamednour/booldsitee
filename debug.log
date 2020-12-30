@@ -1,2 +1,2 @@
  <a href="" class="god"><button class="btn btn-primary btnw">التفاصيل </button></a>
-  <img style="width: 110px; margin-top: 10px;" src="assets/imgs/subtle-pattern-1.jpg" alt="..." class="rounded-circle">
+  <img style="width: 110px; margin-top: 10px;" src="assets/imgs/subtle-pattern-1.jpg" alt="..." class="rounded-circle">[1230/141902.395:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

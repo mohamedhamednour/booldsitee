@@ -186,3 +186,10 @@ float: left;
   .far{
       color: white;
   }
+  .iconna{
+      font-size: 20px;
+      
+  }
+  .breadcrumb{
+    border-radius: 0px 60px 60px 0px;
+  }
